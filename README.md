@@ -35,4 +35,6 @@ p.waitFor()
 
 xterm -display 10.0.0.1
 
+Note: if the technology version changed these codes may not work. Please check out https://pentestmonkey.net for latest update.
+
 Happy Hacking
